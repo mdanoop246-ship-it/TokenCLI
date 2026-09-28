@@ -1,0 +1,7 @@
+{
+  "name": "tokencli-demo-target",
+  "private": true,
+  "scripts": {
+    "build": "tsc --noEmit"
+  }
+}
